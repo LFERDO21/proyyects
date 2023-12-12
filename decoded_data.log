@@ -1,0 +1,206 @@
+Array
+(
+    [id_session] => 6
+    [id_datos] => 202
+    [pregunta_0] => Array
+        (
+            [respuesta] => 239
+        )
+
+    [pregunta_1] => Array
+        (
+            [respuesta] => 243
+        )
+
+    [pregunta_2] => Array
+        (
+            [respuesta] => 244
+        )
+
+    [pregunta_3] => Array
+        (
+            [respuesta] => 249
+        )
+
+    [pregunta_4] => Array
+        (
+            [respuesta] => 252
+        )
+
+    [pregunta_5] => Array
+        (
+            [respuesta] => 253
+        )
+
+    [pregunta_6] => Array
+        (
+            [respuesta] => 257
+        )
+
+    [pregunta_7] => Array
+        (
+            [respuesta] => 260
+        )
+
+    [pregunta_8] => Array
+        (
+            [respuesta] => 264
+        )
+
+    [pregunta_9] => Array
+        (
+            [respuesta] => 266
+        )
+
+    [pregunta_10] => Array
+        (
+            [respuesta] => 268
+        )
+
+    [pregunta_11] => Array
+        (
+            [respuesta] => 273
+        )
+
+    [pregunta_12] => Array
+        (
+            [respuesta] => 275
+        )
+
+    [pregunta_13] => Array
+        (
+            [respuesta] => 277
+        )
+
+    [pregunta_14] => Array
+        (
+            [respuesta] => 281
+        )
+
+    [pregunta_15] => Array
+        (
+            [respuesta] => 283
+        )
+
+    [pregunta_16] => Array
+        (
+            [respuesta] => 287
+        )
+
+    [pregunta_17] => Array
+        (
+            [respuesta] => 289
+        )
+
+    [pregunta_18] => Array
+        (
+            [respuesta] => 293
+        )
+
+    [pregunta_19] => Array
+        (
+            [respuesta] => 295
+        )
+
+    [pregunta_20] => Array
+        (
+            [respuesta] => 300
+        )
+
+    [pregunta_21] => Array
+        (
+            [respuesta] => 303
+        )
+
+    [pregunta_22] => Array
+        (
+            [respuesta] => 306
+        )
+
+    [pregunta_23] => Array
+        (
+            [respuesta] => 307
+        )
+
+    [pregunta_24] => Array
+        (
+            [respuesta] => 310
+        )
+
+    [pregunta_25] => Array
+        (
+            [respuesta] => 314
+        )
+
+    [pregunta_26] => Array
+        (
+            [respuesta] => 317
+        )
+
+    [pregunta_27] => Array
+        (
+            [respuesta] => 319
+        )
+
+    [pregunta_28] => Array
+        (
+            [respuesta] => 324
+        )
+
+    [pregunta_29] => Array
+        (
+            [respuesta] => 327
+        )
+
+    [pregunta_30] => Array
+        (
+            [respuesta] => 330
+        )
+
+    [pregunta_31] => Array
+        (
+            [respuesta] => 331
+        )
+
+    [pregunta_32] => Array
+        (
+            [respuesta] => 334
+        )
+
+    [pregunta_33] => Array
+        (
+            [respuesta] => 338
+        )
+
+    [pregunta_34] => Array
+        (
+            [respuesta] => 342
+        )
+
+    [pregunta_35] => Array
+        (
+            [respuesta] => 344
+        )
+
+    [pregunta_36] => Array
+        (
+            [respuesta] => 347
+        )
+
+    [pregunta_37] => Array
+        (
+            [respuesta] => 350
+        )
+
+    [pregunta_38] => Array
+        (
+            [respuesta] => 352
+        )
+
+    [pregunta_39] => Array
+        (
+            [respuesta] => 357
+        )
+
+)
+
